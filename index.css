@@ -1,6 +1,6 @@
 .bg-topo {
     background-repeat: no-repeat;
-    background-image: url(Imagens/bannerfundo.jpg);
+    background-image: url(Imagens/bannerfundo.png);
     background-size: cover;
     background-position-x: center;
     background-position-y: center;
@@ -100,4 +100,17 @@
 .noticia-estilo {
     font-size: 1.3rem;
     color: #488391;
+}
+.tamanhofb {
+    font-size: 1.6rem;
+    padding-right: 10px;
+}
+.tamanhofb:hover {
+    color: blue;
+}
+.tamanhoig {
+    font-size: 1.6rem;
+}
+.tamanhoig:hover {
+    color: blueviolet;
 }
