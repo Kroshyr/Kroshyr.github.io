@@ -8,6 +8,7 @@
     height: 100%;
     opacity: 1;
     visibility: inherit;
+    font-family: 'Barlow Condensed', sans-serif;
 }
 .bg-rodape {
     background-color: #488391;
@@ -45,11 +46,13 @@
     font-size: 35px;
     font-weight: 500;
     color: white;
+    font-family: 'Barlow Condensed', sans-serif;
 }
 .disp-subt {
     font-size: 20px;
     font-weight: 500;
     color: white;
+    font-family: 'Barlow Condensed', sans-serif;
 }
 .disp-botao {
     font-size: 17px;
@@ -57,6 +60,7 @@
     font-weight: 500;
     color: #488391;
     background-color:rgba(248,215,0,0.75);
+    font-family: 'Barlow Condensed', sans-serif;
 }
 .whitespace {
     height: 50px;
