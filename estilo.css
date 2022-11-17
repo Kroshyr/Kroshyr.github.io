@@ -1,0 +1,50 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/ClientSide/css.css to edit this template
+*/
+/* 
+    Created on : 15 de nov. de 2022, 12:34:07
+    Author     : WKB
+*/
+
+@font-face {
+    font-family: Basillion;
+    src:(Basillion.tff);
+}
+@font-face {
+    font-family: CaviarDreams;
+    src:(CaviarDreams.tff);
+}
+
+.alinhamento {
+    text-align: center;
+}
+
+#brand {
+    font-family: Basillion;
+    text-transform: uppercase;
+    font-size: 60px;
+    margin-bottom: 0px;
+}
+#brandsub {
+    font-family: CaviarDreams;
+    letter-spacing: 4px;
+    margin-top: 0px;
+}
+.topnav {
+    float: inherit;
+    display: inline-block;
+    text-align: center;
+    padding: 5px 15px;
+    margin: 5px;
+    text-decoration: none;
+    text-transform: uppercase;
+    border: solid black;
+    background-color: #fff;
+    color: #000;
+}
+.topnav:hover {
+    background-color: #000;
+    color: #fff;
+    font-size: 110%;
+}
