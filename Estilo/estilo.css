@@ -9,11 +9,11 @@ Click nbfs://nbhost/SystemFileSystem/Templates/ClientSide/css.css to edit this t
 
 @font-face {
     font-family: Basillion;
-    src:(Basillion.tff);
+    src: url(Basillion.ttf);
 }
 @font-face {
     font-family: CaviarDreams;
-    src:(CaviarDreams.tff);
+    src: url(Cdreams.ttf);
 }
 
 .alinhamento {
